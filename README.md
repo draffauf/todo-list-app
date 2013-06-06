@@ -11,12 +11,11 @@ Items we are looking to see accomplished:
   * Allows creation of simple list items
   * Ability to toggle done/not-done items
   * Ability to destroy items
-  * Best practices for naming conventions
 2. CSS/HTML: A To-Do app that
   * Utilizes HTML5 markup where needed
   * Utilizes CSS3 techniques to make things pretty without graphics
-  * Best practices for naming conventions
-3. Bonus points if you can test your JavaScript
+3. Show us your best coding practices!
+4. Bonus points if you can test your JavaScript
 
 ## Getting Started
 
